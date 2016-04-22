@@ -4,9 +4,9 @@ cd ..
 
 mkdir -p $HOME/tmp
 
-DISTFILE=$HOME/tmp/patch-check_dist.tgz
+DISTFILE=$HOME/tmp/patch-check_dist.zip
 
-tar cvfz $DISTFILE \
+zip -r $DISTFILE \
  patch-check/pc.pl \
  patch-check/pc.sh \
  patch-check/patch_list.txt \
