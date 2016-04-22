@@ -1,0 +1,2 @@
+/u01/app/oracle/product/11.2.0/grid
+/u01/app/oracle/product/11.2.0.2/vmdb01
